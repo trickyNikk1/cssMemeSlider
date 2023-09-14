@@ -1,0 +1,1 @@
+Just a simple slider with memes by vanilla html css js.
